@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Voice_Powered_Budget_Tracker/static/css/main.5d4dda7e.chunk.css",
+    "main.js": "/Voice_Powered_Budget_Tracker/static/js/main.d508a6de.chunk.js",
+    "main.js.map": "/Voice_Powered_Budget_Tracker/static/js/main.d508a6de.chunk.js.map",
+    "runtime-main.js": "/Voice_Powered_Budget_Tracker/static/js/runtime-main.fc834728.js",
+    "runtime-main.js.map": "/Voice_Powered_Budget_Tracker/static/js/runtime-main.fc834728.js.map",
+    "static/js/2.b1d7f432.chunk.js": "/Voice_Powered_Budget_Tracker/static/js/2.b1d7f432.chunk.js",
+    "static/js/2.b1d7f432.chunk.js.map": "/Voice_Powered_Budget_Tracker/static/js/2.b1d7f432.chunk.js.map",
+    "index.html": "/Voice_Powered_Budget_Tracker/index.html",
+    "static/css/main.5d4dda7e.chunk.css.map": "/Voice_Powered_Budget_Tracker/static/css/main.5d4dda7e.chunk.css.map",
+    "static/js/2.b1d7f432.chunk.js.LICENSE.txt": "/Voice_Powered_Budget_Tracker/static/js/2.b1d7f432.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Voice_Powered_Budget_Tracker/static/media/Background.9eedd35c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc834728.js",
+    "static/js/2.b1d7f432.chunk.js",
+    "static/css/main.5d4dda7e.chunk.css",
+    "static/js/main.d508a6de.chunk.js"
+  ]
+}
